@@ -20,11 +20,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Avanish Srivastava </span>
-                 and I'm from <span className="yellow"> Gorakhpur, UttarPradesh, India.</span>
+                 Hi, my name is <span className="yellow">Anil Sharma </span>
+                 and I'm from <span className="yellow"> Siddhartha Nagar, UttarPradesh, India.</span>
                 <br />
                 <br />
-                I am currently a 3rd-year undergraduate in the Computer Science Engineering Concentration at Pranveer Singh Institute of Technology, Kanpur.
+                I am currently a 4rd-year undergraduate in the Computer Science Engineering Concentration at Bansal  Institute of Engineering and Technology, Lucknow.
                 <br />
                 <br />
                   As a
@@ -32,13 +32,13 @@ const About = () => {
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> C++ </b>
-                    as well as have knowledge in programming languages such as C, Python, Javascript
+                    <b className="yellow"> Java </b>
+                    as well as have knowledge in programming languages such as Java, C++, Html, Css ,JavaScripts
                   <b className="yellow"> and Solidity.</b>
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
+                  with <b className="yellow">React.js ,Node.js, MongoDB,</b> and
                   <i>
                     <b className="yellow">
                       {" "}
@@ -55,7 +55,7 @@ const About = () => {
                   <i>
                     <b className="yellow"> Web Technologies and Products, </b>
                     as well as exploring areas related to
-                    <b className="yellow"> Blockchain.</b>
+                    <b className="yellow"> New Technologies</b>
                   </i>
                   <br />
                   
@@ -76,7 +76,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/Avanishsri31"
+                      href="https://github.com/Anil9651080"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +98,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/avanish-srivastava-533035203/"
+                      href="https://www.linkedin.com/in/anil-sharma-46605a230"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -109,7 +109,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/avanishsri31/"
+                      href="https://anilsharma.netlify.app/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"

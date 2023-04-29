@@ -12,7 +12,8 @@ import {
   SiSolidity,
   SiRedux,
   SiMongodb,
-  SiHtml5
+  SiHtml5,
+  
 } from "react-icons/si";
 
 const Techstack = () => {
@@ -48,6 +49,7 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
+     
     </Row>
   );
 }
